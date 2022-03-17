@@ -1,14 +1,14 @@
 {
-  "name": "15tut",
+  "name": "test_server",
   "version": "1.0.0",
-  "description": "MongoDB tutorial",
+  "description": "Node Server",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "engines": {
     "node": "14.x"
   },
